@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suman862
-- 👀 I’m interested in quantum machine learning,data science and quantum computing 
+- 👀 I’m interested in machine learning and artificial intelligence.
 - 🌱 I’m currently learning deep learning with pytorch 
-- 💞️ I’m looking to collaborate on quantum graph neural network 
+- 💞️ I’m looking to collaborate on  graph neural network 
 - 📫 You can connect with me on linkedin"suman-khatri-932782188"
 
 <!---
