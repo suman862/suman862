@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suman862
-- 👀 I’m interested in machine learning and artificial intelligence.
+- 👀 I’m interested in machine learning,deep learning and artificial intelligence.
 - 🌱 I’m currently learning deep learning with pytorch 
 - 💞️ I’m looking to collaborate on  graph neural network 
 - 📫 You can connect with me on linkedin"suman-khatri-932782188"
