@@ -1,17 +1,20 @@
 ## 👋 Hello there, I'm Suman Khatri (@suman862)
+Research Focus: Continual Learning, Vision Foundation Models
 
-🎓 Master's Student in Applied Artificial Intelligence  
-🤖 Passionate about Machine Learning, Deep Learning, and NLP  
-🧠 Currently diving deeper into Deep Learning with PyTorch  
-🔍 Exploring Graph Neural Networks and their real-world applications  
-🤝 Open to collaborations in AI research and open-source projects  
-🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/suman-khatri-932782188)
+I work on making large vision models adapt over time without forgetting.
 
----
+Current Work:
+- Continual Panoptic Segmentation
+- SAM-based continual adaptation
+- Diffusion representations
 
-> “Turning complex problems into elegant AI-powered solutions.”
+Selected Projects:
+[Top 4 repos]
 
-<!---
-suman862/suman862 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Research Interests:
+- Lifelong learning
+- Multimodal alignment
+- Efficient adaptation
+
+Publications:
+Preprint coming soon
