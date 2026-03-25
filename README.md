@@ -13,7 +13,7 @@ Selected Projects:
 
 Research Interests:
 
--Open-vocab-segmentation-lab[https://github.com/suman862/open-vocab-segmentation-lab]
+- Open-vocab-segmentation-lab[https://github.com/suman862/open-vocab-segmentation-lab]
 - Lifelong learning
 - Multimodal alignment
 - Efficient adaptation
