@@ -12,6 +12,7 @@ Selected Projects:
 [Top 4 repos]
 
 Research Interests:
+-@https://github.com/suman862/open-vocab-segmentation-lab
 - Lifelong learning
 - Multimodal alignment
 - Efficient adaptation
