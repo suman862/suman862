@@ -15,7 +15,7 @@ Research Interests:
 
 - Open-vocab-segmentation-lab/Lifelong learning[https://github.com/suman862/open-vocab-segmentation-lab]
 - Multimodal alignment
-- Diffusion/flow matching
+- Diffusion/flow matching[https://github.com/suman862/unified-generative-models/tree/main]
 - Transformer based models 
 
 Publications:
