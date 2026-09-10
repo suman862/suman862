@@ -1,22 +1,20 @@
-## 👋 Hello there, I'm Suman Khatri (@suman862)
-Research Focus: Continual Learning, Vision Foundation Models
+# Hi, I'm Suman Khatri 👋
 
-I work on making large vision models adapt over time without forgetting.
+AI/ML Engineer and Applied AI researcher working with **PyTorch, LLMs, multimodal AI, and computer vision**.
 
-Current Work:
-- Continual Panoptic Segmentation
-- SAM-based continual adaptation
-- Diffusion representations
+### Current Interests
 
-Selected Projects:
-[Top 4 repos]
+* Multimodal AI & LLMs
+* Computer Vision
+* Continual Learning
+* Deep Learning
 
-Research Interests:
+### Selected Projects
 
-- Open-vocab-segmentation-lab/Lifelong learning[https://github.com/suman862/open-vocab-segmentation-lab]
-- Multimodal alignment[https://github.com/suman862/multimodal-llm-foundations]
-- Diffusion/flow matching[https://github.com/suman862/unified-generative-models/tree/main]
-- Transformer based models 
+* **[FutureMachine AI Platform]([https://github.com/suman862/FutureMachine-AI-Platform](https://github.com/suman862/FutureMachine-AI-Platform))** — Multimodal AI platform with LLM, vision, and audio services using FastAPI, Docker, vLLM, and Triton.
+* **Sunasign** — AI-based project focused on practical machine learning and application development.
+* **BiLSTM** — Deep learning project exploring sequence modeling with Bidirectional LSTM networks.
 
-Publications:
-Preprint coming soon
+MSc in Applied Artificial Intelligence — Madan Bhandari University of Science and Technology.
+
+
