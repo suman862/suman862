@@ -99,8 +99,6 @@ Ongoing Master's thesis research at MBUST. Investigates visual memory banks and 
 **Master's in Applied Artificial Intelligence** — Madan Bhandari University of Science and Technology (MBUST), Nepal
 *Thesis in progress: Continual Panoptic Segmentation with Visual Memory Bank*
 
-**Bachelor's in Physics** — Amrit Science Campus, Nepal
-Foundation in mathematical modeling, scientific reasoning, and computational problem-solving.
 
 ---
 
@@ -117,6 +115,7 @@ Foundation in mathematical modeling, scientific reasoning, and computational pro
 
 - **GitHub:** [github.com/suman862](https://github.com/suman862)
 - **Location:** Nepal
+- **Email:** suman21khatri@gmail.com
 - **Open to:** AI engineering roles, research collaboration, and open-source contributions in continual learning, computer vision, multimodal AI, and generative modeling.
 
 <p align="center"><i>Building AI systems with engineering discipline and research depth.</i></p>
