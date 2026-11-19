@@ -19,6 +19,8 @@
 
 I am an AI/ML Engineer and Applied AI Researcher with a Master's in Applied Artificial Intelligence from Madan Bhandari University of Science and Technology (MBUST), Nepal. My work sits at the intersection of **AI engineering** and **applied AI research**: building modular, production-oriented inference systems while investigating continual learning and visual memory for computer vision.
 
+My academic foundation in Physics shaped how I approach machine learning — mathematically grounded, experimentally disciplined, and focused on understanding systems rather than only using them.
+
 ---
 
 ## Current Research
@@ -56,18 +58,21 @@ I am investigating how visual memory mechanisms can mitigate catastrophic forget
 **AI Engineering & Infrastructure**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat)
 ![NVIDIA Triton](https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=flat&logo=nvidia&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat)
+![Backend System Design](https://img.shields.io/badge/Backend%20System%20Design-4A4A4A?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,linux" alt="Core tooling" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,kubernetes,git,github,linux" alt="Core tooling" height="40"/>
 </p>
 
-*Actively deepening: model serving and inference optimization, multimodal foundation models, continual learning methods, and generative modeling (flow matching, diffusion, world models).*
+*Actively deepening: model serving and inference optimization, container orchestration with Kubernetes, backend system design for ML services, multimodal foundation models, continual learning methods, and generative modeling (flow matching, diffusion, world models).*
 
 ---
 
@@ -76,7 +81,7 @@ I am investigating how visual memory mechanisms can mitigate catastrophic forget
 ### [FutureMachine AI Platform](https://github.com/suman862/FutureMachine-AI-Platform)
 A multimodal AI inference platform integrating **language, vision, and audio** capabilities through independent, modular services. The architecture emphasizes clean service boundaries, model serving, and scalable inference.
 
-`Python` · `FastAPI` · `Docker` · `vLLM` · `NVIDIA Triton Inference Server` · `Hugging Face`
+`Python` · `FastAPI` · `Pydantic` · `Docker` · `Kubernetes` · `vLLM` · `NVIDIA Triton Inference Server` · `Hugging Face`
 
 ### [Sunasign](https://github.com/suman862)
 An AI-based application project focused on practical machine learning and applied software development. See the repository for implementation details and scope.
@@ -112,7 +117,6 @@ Foundation in mathematical modeling, scientific reasoning, and computational pro
 
 - **GitHub:** [github.com/suman862](https://github.com/suman862)
 - **Location:** Nepal
-- Email:suman21khatri@gmail.com
 - **Open to:** AI engineering roles, research collaboration, and open-source contributions in continual learning, computer vision, multimodal AI, and generative modeling.
 
 <p align="center"><i>Building AI systems with engineering discipline and research depth.</i></p>
