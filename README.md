@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI/ML Engineer · Applied AI Researcher</b><br/>
-  Multimodal Inference Systems · Continual Learning · Computer Vision
+  Multimodal Inference Systems · Continual Learning · Computer Vision · Generative Modeling
 </p>
 
 <p align="center">
@@ -36,6 +36,8 @@ I am investigating how visual memory mechanisms can mitigate catastrophic forget
 
 **Research interests:** Continual Learning · Continual Panoptic Segmentation · Visual Memory Banks · Visual Prompt Tuning · Computer Vision · Multimodal Foundation Models · Large Language Models · Deep Learning
 
+**Generative modeling interests:** Flow Matching · Diffusion Models · World Models
+
 ---
 
 ## Technical Skills
@@ -47,6 +49,11 @@ I am investigating how visual memory mechanisms can mitigate catastrophic forget
 ![LLMs](https://img.shields.io/badge/Large%20Language%20Models-6A5ACD?style=flat)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-8A2BE2?style=flat)
 ![Continual Learning](https://img.shields.io/badge/Continual%20Learning-2E8B57?style=flat)
+
+**Generative Modeling & Emerging Areas**
+![Flow Matching](https://img.shields.io/badge/Flow%20Matching-8B0000?style=flat)
+![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-DC143C?style=flat)
+![World Models](https://img.shields.io/badge/World%20Models-483D8B?style=flat)
 
 **AI Engineering & Infrastructure**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -62,7 +69,7 @@ I am investigating how visual memory mechanisms can mitigate catastrophic forget
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,linux" alt="Core tooling" height="40"/>
 </p>
 
-*Actively deepening: model serving and inference optimization, multimodal foundation models, and continual learning methods.*
+*Actively deepening: model serving and inference optimization, multimodal foundation models, continual learning methods, and generative modeling (flow matching, diffusion, world models).*
 
 ---
 
@@ -107,6 +114,6 @@ Foundation in mathematical modeling, scientific reasoning, and computational pro
 
 - **GitHub:** [github.com/suman862](https://github.com/suman862)
 - **Location:** Nepal
-- **Open to:** AI engineering roles, research collaboration, and open-source contributions in continual learning, computer vision, and multimodal AI.
+- **Open to:** AI engineering roles, research collaboration, and open-source contributions in continual learning, computer vision, multimodal AI, and generative modeling.
 
 <p align="center"><i>Building AI systems with engineering discipline and research depth.</i></p>
