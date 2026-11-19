@@ -114,6 +114,7 @@ Foundation in mathematical modeling, scientific reasoning, and computational pro
 
 - **GitHub:** [github.com/suman862](https://github.com/suman862)
 - **Location:** Nepal
+- Email:suman21khatri@gmail.com
 - **Open to:** AI engineering roles, research collaboration, and open-source contributions in continual learning, computer vision, multimodal AI, and generative modeling.
 
 <p align="center"><i>Building AI systems with engineering discipline and research depth.</i></p>
