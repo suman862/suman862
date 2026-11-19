@@ -19,8 +19,6 @@
 
 I am an AI/ML Engineer and Applied AI Researcher with a Master's in Applied Artificial Intelligence from Madan Bhandari University of Science and Technology (MBUST), Nepal. My work sits at the intersection of **AI engineering** and **applied AI research**: building modular, production-oriented inference systems while investigating continual learning and visual memory for computer vision.
 
-My academic foundation in Physics shaped how I approach machine learning — mathematically grounded, experimentally disciplined, and focused on understanding systems rather than only using them.
-
 ---
 
 ## Current Research
