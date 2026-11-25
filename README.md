@@ -5,18 +5,6 @@
   Multimodal Inference Systems · Continual Learning · Computer Vision · Generative Modeling
 </p>
 
-<p align="center">
-  <a href="https://github.com/suman862">
-    <img src="https://img.shields.io/badge/GitHub-suman862-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Nepal-2f81f7?style=flat" alt="Nepal"/>
-  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineering%20%26%20Research%20Collaboration-0a7d5a?style=flat" alt="Open to collaboration"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suman862&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
 ---
 
 ## About
@@ -111,6 +99,19 @@ Ongoing Master's thesis research at MBUST. Investigates visual memory banks and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman862&layout=compact&hide_border=true&theme=default" alt="Top languages" height="150"/>
 </p>
 
+---
+
+<p align="center">
+  <a href="https://github.com/suman862">
+    <img src="https://img.shields.io/badge/GitHub-suman862-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Nepal-2f81f7?style=flat" alt="Nepal"/>
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineering%20%26%20Research%20Collaboration-0a7d5a?style=flat" alt="Open to collaboration"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suman862&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 ---
 
 ## Contact
