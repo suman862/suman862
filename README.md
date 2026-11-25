@@ -1,4 +1,5 @@
-# Suman Khatri
+<h1 align="center">Hi, I'm Suman Khatri 👋</h1>
+
 
 <p align="center">
   <b>AI/ML Engineer · Applied AI Researcher</b><br/>
