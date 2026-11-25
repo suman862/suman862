@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Open%20to-AI%20Engineering%20%26%20Research%20Collaboration-0a7d5a?style=flat" alt="Open to collaboration"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suman862&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
 ---
 
 ## About
